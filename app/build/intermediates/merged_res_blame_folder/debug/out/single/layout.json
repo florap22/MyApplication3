@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.curso.android.app.practice.myapplication3.app-mergeDebugResources-47:/layout/fragment_dashboard.xml",
+        "source": "com.curso.android.app.practice.myapplication3.app-main-50:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.curso.android.app.practice.myapplication3.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.curso.android.app.practice.myapplication3.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.curso.android.app.practice.myapplication3.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.curso.android.app.practice.myapplication3.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.curso.android.app.practice.myapplication3.app-mergeDebugResources-47:/layout/fragment_notifications.xml",
+        "source": "com.curso.android.app.practice.myapplication3.app-main-50:/layout/fragment_notifications.xml"
+    }
+]

@@ -1,0 +1,68 @@
+# 2023-09-01T22:59:38.730Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.curso.android.app.practice.myapplication3"
+    test_method: "testComp"
+    start_time {
+      seconds: 1693609175
+      nanos: 293000000
+    }
+    end_time {
+      seconds: 1693609177
+      nanos: 723000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/flor/AndroidStudioProjects/MyApplication3/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_33(AVD) - 13/logcat-com.curso.android.app.practice.myapplication3.MainActivityTest-testComp.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/flor/AndroidStudioProjects/MyApplication3/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/flor/AndroidStudioProjects/MyApplication3/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/flor/AndroidStudioProjects/MyApplication3/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/flor/AndroidStudioProjects/MyApplication3/app/build/outputs/androidTest-results/connected/debug/Pixel_5_API_33(AVD) - 13/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

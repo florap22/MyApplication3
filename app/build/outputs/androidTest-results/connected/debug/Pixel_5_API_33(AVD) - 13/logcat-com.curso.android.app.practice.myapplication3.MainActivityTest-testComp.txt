@@ -1,0 +1,295 @@
+09-01 22:59:34.253 32047 32064 I TestRunner: started: testComp(com.curso.android.app.practice.myapplication3.MainActivityTest)
+09-01 22:59:34.262 32047 32064 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-01 22:59:34.297   883   934 D SplashScreenView: Build android.window.SplashScreenView{5f0aa1e V.E...... ......ID 0,0-0,0}
+09-01 22:59:34.297   883   934 D SplashScreenView: Icon: view: null drawable: null size: 0
+09-01 22:59:34.297   883   934 D SplashScreenView: Branding: view: android.view.View{c81c2ff G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+09-01 22:59:34.337   883   935 W Parcel  : Expecting binder but got null!
+09-01 22:59:34.347 32047 32068 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+09-01 22:59:34.349  1195  1837 D EGL_emulation: app_time_stats: avg=756.12ms min=440.17ms max=1072.06ms count=2
+09-01 22:59:34.350 32047 32068 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+09-01 22:59:34.354 32047 32068 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+09-01 22:59:34.362   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.389 32047 32047 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+09-01 22:59:34.396 32047 32047 D LifecycleMonitor: Lifecycle status change: com.curso.android.app.practice.myapplication3.MainActivity@cf90155 in: PRE_ON_CREATE
+09-01 22:59:34.397 32047 32047 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-01 22:59:34.436 32047 32047 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10201; state: ENABLED
+09-01 22:59:34.447 32047 32047 W .myapplication3: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+09-01 22:59:34.495 32047 32047 W .myapplication3: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+09-01 22:59:34.525 32047 32047 D LifecycleMonitor: Lifecycle status change: com.curso.android.app.practice.myapplication3.MainActivity@cf90155 in: CREATED
+09-01 22:59:34.525 32047 32047 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.curso.android.app.practice.myapplication3.MainActivity@cf90155
+09-01 22:59:34.529 32047 32047 D LifecycleMonitor: Lifecycle status change: com.curso.android.app.practice.myapplication3.MainActivity@cf90155 in: STARTED
+09-01 22:59:34.529 32047 32047 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.curso.android.app.practice.myapplication3.MainActivity@cf90155
+09-01 22:59:34.531 32047 32047 D LifecycleMonitor: Lifecycle status change: com.curso.android.app.practice.myapplication3.MainActivity@cf90155 in: RESUMED
+09-01 22:59:34.531 32047 32047 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.curso.android.app.practice.myapplication3.MainActivity@cf90155
+09-01 22:59:34.540   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.540   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.540   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.540   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.573   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.573   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.580   440   880 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10201 pid=0
+09-01 22:59:34.580   440   880 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10201 => denied (230 us)
+09-01 22:59:34.580   440   880 W ServiceManager: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10201 pid=0
+09-01 22:59:34.580   440   880 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10201 => denied (190 us)
+09-01 22:59:34.580   440   880 W ServiceManager: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10201 pid=0
+09-01 22:59:34.580   440   880 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10201 => denied (125 us)
+09-01 22:59:34.594 32047 32066 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+09-01 22:59:34.595 32047 32066 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-01 22:59:34.596 32047 32066 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-01 22:59:34.596 32047 32066 D EGL_emulation: eglCreateContext: 0x7c8c9e41a450: maj 3 min 1 rcv 4
+09-01 22:59:34.597 32047 32066 D EGL_emulation: eglMakeCurrent: 0x7c8c9e41a450: ver 3 1 (tinfo 0x7c8eb6c04080) (first time)
+09-01 22:59:34.605   210   210 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+09-01 22:59:34.605 32047 32066 I Gralloc4: mapper 4.x is not supported
+09-01 22:59:34.652   210   210 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+09-01 22:59:34.655   209   209 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+09-01 22:59:34.655 32047 32066 W Gralloc4: allocator 4.x is not supported
+09-01 22:59:34.676 32047 32066 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+09-01 22:59:34.696   883   935 D EGL_emulation: app_time_stats: avg=35007.73ms min=13.13ms max=349650.50ms count=10
+09-01 22:59:34.713   883   935 D EGL_emulation: app_time_stats: avg=136.75ms min=1.08ms max=889.75ms count=7
+09-01 22:59:34.731 32047 32066 W Parcel  : Expecting binder but got null!
+09-01 22:59:34.734   593   616 W ziparchive: Unable to open '/data/app/~~EmGrnqlbeykScyahAJlDDw==/com.curso.android.app.practice.myapplication3-lNaZNr1gXLCWgcb9soDmsg==/base.dm': No such file or directory
+09-01 22:59:34.736   593   616 I ActivityTaskManager: Displayed com.curso.android.app.practice.myapplication3/.MainActivity: +466ms
+09-01 22:59:34.740   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.757   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.757   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:34.767  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+09-01 22:59:34.769  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+09-01 22:59:34.769  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.curso.android.app.practice.myapplication3 fieldId=-1 fieldName=null extras=null}, false)
+09-01 22:59:34.770  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+09-01 22:59:34.773   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6382a7d0
+09-01 22:59:34.806  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:34.807  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:34.817  2220 32077 I PBSessionCacheImpl: Deleted sessionId[9765356748958061] from persistence.
+09-01 22:59:34.827  2220  2500 W SearchServiceCore: Abort, client detached.
+09-01 22:59:34.840   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6382e190
+09-01 22:59:34.843   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6382d3b0
+09-01 22:59:34.849 32047 32064 W FileTestStorage: Output properties is not supported.
+09-01 22:59:34.850 32047 32064 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+09-01 22:59:34.855 32047 32064 D EventInjectionStrategy: Creating injection strategy with input manager.
+09-01 22:59:34.856 32047 32064 W .myapplication3: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+09-01 22:59:34.856 32047 32064 W .myapplication3: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+09-01 22:59:34.860 32047 32064 W .myapplication3: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+09-01 22:59:34.873 32047 32064 W .myapplication3: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+09-01 22:59:34.881 32047 32047 W .myapplication3: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+09-01 22:59:34.881 32047 32047 W .myapplication3: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+09-01 22:59:34.881 32047 32047 W .myapplication3: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+09-01 22:59:34.884 32047 32047 W .myapplication3: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+09-01 22:59:34.884 32047 32047 W .myapplication3: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+09-01 22:59:34.884 32047 32047 W .myapplication3: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+09-01 22:59:34.886 32047 32047 I ViewInteraction: Performing 'type text(5)' action on view view.getId() is <2131230893/com.curso.android.app.practice.myapplication3:id/editText1>
+09-01 22:59:34.896  1195  1195 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=351.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33699664, downTime=33699664, deviceId=-1, source=0x1002, displayId=0, eventId=-696124736 }
+09-01 22:59:34.934  1195  1195 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=351.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33699706, downTime=33699664, deviceId=-1, source=0x1002, displayId=0, eventId=-70453586 }
+09-01 22:59:34.943  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+09-01 22:59:34.944  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+09-01 22:59:34.951  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x20001(Normal) imeOptions=0x48000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.curso.android.app.practice.myapplication3 fieldId=2131230893 fieldName=null extras=null}, false)
+09-01 22:59:34.953  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+09-01 22:59:34.954 32047 32047 D CompatibilityChangeReporter: Compat change id reported: 163400105; UID 10201; state: ENABLED
+09-01 22:59:34.954 32047 32047 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{bc021c6 VFED..CL. .F.P..ID 0,0-1080,124 #7f0800ad app:id/editText1 aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+09-01 22:59:34.965  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:34.967  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2023 onStartInputView(EditorInfo{inputType=0x20001(Normal) imeOptions=0x48000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.curso.android.app.practice.myapplication3 fieldId=2131230893 fieldName=null extras=null}, false)
+09-01 22:59:34.969  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+09-01 22:59:34.970  1546  1546 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+09-01 22:59:34.971  1546  1546 I AndroidIME: AbstractIme.onActivate():91 LatinIme.onActivate() : EditorInfo = inputType=0x20001(Normal) imeOptions=0x48000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.curso.android.app.practice.myapplication3 fieldId=2131230893 fieldName=null extras=null, IncognitoMode = false, DeviceLocked = false
+09-01 22:59:34.972  1546  1546 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+09-01 22:59:34.974  1546  1546 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+09-01 22:59:34.975  1546  1546 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+09-01 22:59:34.976  1546  1546 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1295 inline flag updated to:false
+09-01 22:59:34.978  1546 10785 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():202 maybeScheduleAutoPackDownloadForFallback()
+09-01 22:59:34.979  1546 10785 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+09-01 22:59:34.982 32047 32047 I AssistStructure: Flattened final assist data: 1796 bytes, containing 1 windows, 10 views
+09-01 22:59:34.990  1546  1546 I KeyboardWrapper: KeyboardWrapper.consumeEvent():273 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+09-01 22:59:34.993  1546  1693 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:34.998  1140  1140 W svc     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+09-01 22:59:35.012  6167  6167 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+09-01 22:59:35.014  1546  1546 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+09-01 22:59:35.015  6167  6167 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+09-01 22:59:35.018  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.021  1546  1546 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+09-01 22:59:35.023  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.036  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.036  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.037  1546  1546 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+09-01 22:59:35.038  1546  1546 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+09-01 22:59:35.040   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:35.046  1546  1546 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():382 No private IME option set to start voice input.
+09-01 22:59:35.048   593  1859 W InputManager-JNI: Input channel object 'e14c870 Splash Screen com.curso.android.app.practice.myapplication3 (client)' was disposed without first being removed with the input manager!
+09-01 22:59:35.050 32047 32047 W OnBackInvokedCallback: OnBackInvokedCallback is not enabled for the application.
+09-01 22:59:35.050 32047 32047 W OnBackInvokedCallback: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+09-01 22:59:35.053  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:35.053  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:35.061  6167  6167 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+09-01 22:59:35.061  6167  6167 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+09-01 22:59:35.068  1140  1736 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+09-01 22:59:35.072  1140  1736 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+09-01 22:59:35.081  1140  1736 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+09-01 22:59:35.085  1140  1736 I FontLog : Pulling font file for id = 168, cache size = 8 [CONTEXT service_id=132 ]
+09-01 22:59:35.087  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.088 32047 32047 D InsetsController: show(ime(), fromIme=true)
+09-01 22:59:35.088  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.089  1546  1546 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+09-01 22:59:35.090   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:35.092  1546  2271 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():442 setKeyboardLayout()
+09-01 22:59:35.114  1140  1437 I FontLog : Pulling font file for id = 168, cache size = 8 [CONTEXT service_id=132 ]
+09-01 22:59:35.119  1568  1568 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:2096204631
+09-01 22:59:35.138  6167  6167 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.138  6167  6167 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.156  6167  6167 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.162  6167  6167 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.162  6167  6167 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.173  6167  6167 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.194  1546  1546 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+09-01 22:59:35.224   440   500 W TransactionTracing: Could not find layer handle 0x7a4b63827470
+09-01 22:59:35.224   440   500 W TransactionTracing: Could not find layer handle 0x7a4b63828610
+09-01 22:59:35.224   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6382b490
+09-01 22:59:35.224   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6382b490
+09-01 22:59:35.237 32047 32047 D UiControllerImpl: Injecting string: "5"
+09-01 22:59:35.244   593   612 D InputDispatcher: Touch mode switch rejected, caller (pid=0, uid=10201) doesn't own the focused window nor none of the previously interacted window
+09-01 22:59:35.254  1546  1546 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():81 initialize...
+09-01 22:59:35.254  1546  1546 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():70 onContentChanged()
+09-01 22:59:35.254  1546  1546 I ContactsDataManager: ContactsDataManager.onContentChanged():155 onContentChanged()
+09-01 22:59:35.254  1546  1546 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():93 initialize...done
+09-01 22:59:35.268 32047 32047 I ViewInteraction: Performing 'type text(10)' action on view view.getId() is <2131230894/com.curso.android.app.practice.myapplication3:id/editText2>
+09-01 22:59:35.271  1195  1195 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=475.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33700043, downTime=33700043, deviceId=-1, source=0x1002, displayId=0, eventId=-628866504 }
+09-01 22:59:35.312  1195  1195 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=475.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33700085, downTime=33700043, deviceId=-1, source=0x1002, displayId=0, eventId=-39672917 }
+09-01 22:59:35.316  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2266
+09-01 22:59:35.317 32047 32047 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{3ce587 VFED..CL. .F.P..ID 0,124-1080,248 #7f0800ae app:id/editText2 aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+09-01 22:59:35.318  1546  1546 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+09-01 22:59:35.319  1546  1546 I InputBundle: InputBundle.consumeEvent():894 Skip consuming an event as keyboard status is 0
+09-01 22:59:35.320  1546  1546 I KeyboardWrapper: KeyboardWrapper.consumeEvent():273 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+09-01 22:59:35.320  1546  1546 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+09-01 22:59:35.320  1546  1546 I AndroidIME: AbstractIme.onDeactivate():213 LatinIme.onDeactivate()
+09-01 22:59:35.321  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+09-01 22:59:35.322  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+09-01 22:59:35.322  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x20001(Normal) imeOptions=0x44000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.curso.android.app.practice.myapplication3 fieldId=2131230894 fieldName=null extras=Bundle[mParcelledData.dataSize=240]}, false)
+09-01 22:59:35.322  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+09-01 22:59:35.328  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2023 onStartInputView(EditorInfo{inputType=0x20001(Normal) imeOptions=0x44000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.curso.android.app.practice.myapplication3 fieldId=2131230894 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}]}, false)
+09-01 22:59:35.329  1546  1546 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+09-01 22:59:35.329  1546  1546 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+09-01 22:59:35.330  1546  1546 I AndroidIME: AbstractIme.onActivate():91 LatinIme.onActivate() : EditorInfo = inputType=0x20001(Normal) imeOptions=0x44000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.curso.android.app.practice.myapplication3 fieldId=2131230894 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}], IncognitoMode = false, DeviceLocked = false
+09-01 22:59:35.331  1546  1546 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+09-01 22:59:35.331  1546  1546 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+09-01 22:59:35.331  1546  1546 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+09-01 22:59:35.332  1546  1546 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1295 inline flag updated to:false
+09-01 22:59:35.332  1546 10785 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():202 maybeScheduleAutoPackDownloadForFallback()
+09-01 22:59:35.332  1546 10785 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+09-01 22:59:35.335  1546  1546 I KeyboardWrapper: KeyboardWrapper.consumeEvent():273 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+09-01 22:59:35.337  1546  4497 E native  : E0000 00:00:1693609175.337003    4497 keyboard.cc:26] Cannot create a keyboard with 0 valid keys
+09-01 22:59:35.338  1546  1693 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.340  1546  1546 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+09-01 22:59:35.345  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.346  1546  1546 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2208, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1743
+09-01 22:59:35.346  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.348  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.349  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.349  1546  1546 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+09-01 22:59:35.349  1546  1546 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+09-01 22:59:35.355  1546  1546 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():382 No private IME option set to start voice input.
+09-01 22:59:35.360  6167  6167 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.360  6167  6167 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.361  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.362 32047 32047 W OnBackInvokedCallback: OnBackInvokedCallback is not enabled for the application.
+09-01 22:59:35.362 32047 32047 W OnBackInvokedCallback: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+09-01 22:59:35.364  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.364 32047 32047 D InsetsController: show(ime(), fromIme=true)
+09-01 22:59:35.365  6167  6167 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.366 32047 32047 D InsetsController: show(ime(), fromIme=true)
+09-01 22:59:35.369  1546  1546 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():238 startImportContentTask()
+09-01 22:59:35.371  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.371  1546  1546 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+09-01 22:59:35.371  1546  1546 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+09-01 22:59:35.372  1546  2271 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():442 setKeyboardLayout()
+09-01 22:59:35.380  1546  2023 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():252 doInBackground()
+09-01 22:59:35.382  1546  2023 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():111 LanguageTags = [en-US]
+09-01 22:59:35.385  6167  6167 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.385  6167  6167 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.387  6167  6167 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+09-01 22:59:35.398  1546  2023 I ShortcutsDataManager: AbstractContentDataManager.importRecords():342 importRecords() : Success : Count = 0
+09-01 22:59:35.399  1546  2023 I ShortcutsDataManager: AbstractContentDataManager.importContentData():292 importContentData() : Ending import process
+09-01 22:59:35.400  1546  2271 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():831 unloadLanguageModel() : 4, version [n/a]
+09-01 22:59:35.407  1546  2023 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():160 run() : Added 0 words and 0 shortcuts
+09-01 22:59:35.407  1546  2023 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():38 perform() : 4 : ccz : Completed
+09-01 22:59:35.407  1546  2271 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():626 loadLanguageModel() : 4, version [n/a]
+09-01 22:59:35.408  1546  2271 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():667 Loaded dynamic LM 4.en
+09-01 22:59:35.412  1546  1546 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():263 onPostExecute() : Result = [2,0]
+09-01 22:59:35.412  1546  1546 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():80 onImportFinished() : Result = 2 : Count = 0
+09-01 22:59:35.537  1546  1546 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+09-01 22:59:35.562 32047 32047 D UiControllerImpl: Injecting string: "10"
+09-01 22:59:35.564   593  1859 D InputDispatcher: Touch mode switch rejected, caller (pid=0, uid=10201) doesn't own the focused window nor none of the previously interacted window
+09-01 22:59:35.598 32047 32047 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.curso.android.app.practice.myapplication3:id/compareButton>
+09-01 22:59:35.600  1195  1195 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=603.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33700372, downTime=33700372, deviceId=-1, source=0x1002, displayId=0, eventId=-497002602 }
+09-01 22:59:35.646  1195  1195 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=603.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=33700419, downTime=33700372, deviceId=-1, source=0x1002, displayId=0, eventId=-884631311 }
+09-01 22:59:35.712   883   935 D EGL_emulation: app_time_stats: avg=17.55ms min=1.17ms max=38.18ms count=55
+09-01 22:59:35.796 32047 32066 D EGL_emulation: app_time_stats: avg=33.29ms min=1.02ms max=259.20ms count=29
+09-01 22:59:35.796  1546  1546 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+09-01 22:59:35.897 32047 32047 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "El Num del casillero 2 es mayor"}' assertion on view view.getId() is <2131231075/com.curso.android.app.practice.myapplication3:id/resultTextView>
+09-01 22:59:35.921 32047 32047 D LifecycleMonitor: Lifecycle status change: com.curso.android.app.practice.myapplication3.MainActivity@cf90155 in: PAUSED
+09-01 22:59:35.922 32047 32047 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.curso.android.app.practice.myapplication3.MainActivity@cf90155
+09-01 22:59:35.928   883   934 D SplashScreenView: Build android.window.SplashScreenView{7991cfc V.E...... ......ID 0,0-0,0}
+09-01 22:59:35.928   883   934 D SplashScreenView: Icon: view: null drawable: null size: 0
+09-01 22:59:35.928   883   934 D SplashScreenView: Branding: view: android.view.View{9ee4f85 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+09-01 22:59:35.939   365   365 D Zygote  : Forked child process 32087
+09-01 22:59:35.949 32087 32087 I plication3.test: Late-enabling -Xcheck:jni
+09-01 22:59:35.966   883   935 W Parcel  : Expecting binder but got null!
+09-01 22:59:36.004 32087 32087 W plication3.test: Unexpected CPU variant for x86: x86_64.
+09-01 22:59:36.004 32087 32087 W plication3.test: Known variants: atom, sandybridge, silvermont, kabylake, default
+09-01 22:59:36.015   457   481 I adbd    : jdwp connection from 32087
+09-01 22:59:36.054 32087 32087 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10202; state: ENABLED
+09-01 22:59:36.067 32087 32087 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+09-01 22:59:36.070 32087 32087 D nativeloader: Configuring classloader-namespace for other apk /system/framework/android.test.mock.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~Ytg5tpYs_p7ug5_NV1PB3g==/com.curso.android.app.practice.myapplication3.test-uXZG-IAR3l4DzPN2e-aqOw==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.curso.android.app.practice.myapplication3.test
+09-01 22:59:36.072 32087 32087 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+09-01 22:59:36.082 32087 32087 W plication3.test: ClassLoaderContext shared library size mismatch. Expected=0, found=2 (PCL[] | PCL[]{PCL[/system/framework/android.test.base.jar*1628045882]#PCL[/system/framework/android.test.mock.jar*849501951]})
+09-01 22:59:36.084 32087 32087 D nativeloader: Configuring classloader-namespace for other apk /system/framework/android.test.runner.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~Ytg5tpYs_p7ug5_NV1PB3g==/com.curso.android.app.practice.myapplication3.test-uXZG-IAR3l4DzPN2e-aqOw==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.curso.android.app.practice.myapplication3.test
+09-01 22:59:36.084 32087 32087 W ziparchive: Unable to open '/data/app/~~Ytg5tpYs_p7ug5_NV1PB3g==/com.curso.android.app.practice.myapplication3.test-uXZG-IAR3l4DzPN2e-aqOw==/base.dm': No such file or directory
+09-01 22:59:36.084 32087 32087 W ziparchive: Unable to open '/data/app/~~Ytg5tpYs_p7ug5_NV1PB3g==/com.curso.android.app.practice.myapplication3.test-uXZG-IAR3l4DzPN2e-aqOw==/base.dm': No such file or directory
+09-01 22:59:36.117 32087 32087 D nativeloader: Configuring classloader-namespace for other apk /data/app/~~Ytg5tpYs_p7ug5_NV1PB3g==/com.curso.android.app.practice.myapplication3.test-uXZG-IAR3l4DzPN2e-aqOw==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~Ytg5tpYs_p7ug5_NV1PB3g==/com.curso.android.app.practice.myapplication3.test-uXZG-IAR3l4DzPN2e-aqOw==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.curso.android.app.practice.myapplication3.test
+09-01 22:59:36.124   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:36.134 32087 32087 V GraphicsEnvironment: ANGLE Developer option for 'com.curso.android.app.practice.myapplication3.test' set to: 'default'
+09-01 22:59:36.135 32087 32087 V GraphicsEnvironment: ANGLE GameManagerService for com.curso.android.app.practice.myapplication3.test: false
+09-01 22:59:36.135 32087 32087 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+09-01 22:59:36.139 32087 32087 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+09-01 22:59:36.145 32087 32087 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+09-01 22:59:36.161 32087 32109 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+09-01 22:59:36.166 32087 32109 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+09-01 22:59:36.169 32087 32109 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+09-01 22:59:36.174   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6382a8f0
+09-01 22:59:36.190  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:36.190  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:36.220   440   493 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10202 pid=0
+09-01 22:59:36.220   440   493 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10202 => denied (202 us)
+09-01 22:59:36.220   440   493 W ServiceManager: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10202 pid=0
+09-01 22:59:36.220   440   493 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10202 => denied (301 us)
+09-01 22:59:36.221   440   493 W ServiceManager: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10202 pid=0
+09-01 22:59:36.221   440   493 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10202 => denied (819 us)
+09-01 22:59:36.221   440   881 W ServiceManager: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10202 pid=32087
+09-01 22:59:36.221   440   881 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10202 => denied (323 us)
+09-01 22:59:36.235 32087 32107 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+09-01 22:59:36.236 32087 32107 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-01 22:59:36.237 32087 32107 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-01 22:59:36.238 32087 32107 D EGL_emulation: eglCreateContext: 0x7c8c9e41a450: maj 3 min 1 rcv 4
+09-01 22:59:36.239 32087 32107 D EGL_emulation: eglMakeCurrent: 0x7c8c9e41a450: ver 3 1 (tinfo 0x7c8eb6edd080) (first time)
+09-01 22:59:36.250   210   210 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+09-01 22:59:36.250 32087 32107 I Gralloc4: mapper 4.x is not supported
+09-01 22:59:36.279   210   210 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+09-01 22:59:36.279   209   209 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+09-01 22:59:36.280 32087 32107 W Gralloc4: allocator 4.x is not supported
+09-01 22:59:36.296 32087 32107 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+09-01 22:59:36.366 32087 32107 W Parcel  : Expecting binder but got null!
+09-01 22:59:36.408  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:36.408  1050  1314 D BtGatt.ScanManager: uid 10115 isForeground true scanMode -1
+09-01 22:59:36.461   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6381e050
+09-01 22:59:36.466   883   935 D EGL_emulation: app_time_stats: avg=215.50ms min=3.80ms max=1516.81ms count=8
+09-01 22:59:36.509   440   500 W TransactionTracing: Could not find layer handle 0x7a4b6382fc90
+09-01 22:59:36.517  2220  2500 I A       : Using proto config with mendel
+09-01 22:59:36.518  2220  2500 W A       : Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+09-01 22:59:36.587   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:36.616  2220  2500 I A       : Using proto config with mendel
+09-01 22:59:36.637 32047 32047 D LifecycleMonitor: Lifecycle status change: com.curso.android.app.practice.myapplication3.MainActivity@cf90155 in: STOPPED
+09-01 22:59:36.637 32047 32047 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.curso.android.app.practice.myapplication3.MainActivity@cf90155
+09-01 22:59:36.640   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:36.640   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:36.673 32047 32047 D AutofillManager: onActivityFinishing(): calling cancelLocked()
+09-01 22:59:36.674 32047 32047 D LifecycleMonitor: Lifecycle status change: com.curso.android.app.practice.myapplication3.MainActivity@cf90155 in: DESTROYED
+09-01 22:59:36.674 32047 32047 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-01 22:59:36.681   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:36.682   440   500 W TransactionTracing: Could not find layer id -1
+09-01 22:59:36.685 32047 32064 I TestRunner: finished: testComp(com.curso.android.app.practice.myapplication3.MainActivityTest)
